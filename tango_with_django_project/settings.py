@@ -74,6 +74,7 @@ TEMPLATES = [
                 'django.template.context_processors.media', 
             ],
         },
+        
     },
 ]
 
